@@ -15,6 +15,20 @@ Acredito que a análise de dados é uma ferramenta poderosa para identificar ten
 - ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) Excel: Ferramenta de planilha eletrônica utilizada para análise exploratória de dados, cálculos complexos e criação de gráficos e tabelas dinâmicas.
 - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI: Plataforma de análise de dados da Microsoft utilizada para criação de painéis interativos e relatórios visuais.
 
+
+## 📁 Meus Repositórios
+
+### 🔥 Portfólio (projetos reais e aplicáveis)
+- [meu-portfolio](https://github.com/Talhari1/meu-portfolio): central com os projetos principais
+  - Ex: análise de RH, dashboards executivos, indicadores de vendas etc.
+
+### 🧪 Projetos de Prática
+- [projetos-praticos](https://github.com/Talhari1/projetos-praticos): estudos, desafios técnicos e experimentos
+
+
+
+
+
 ## Contato
 
 - Email: ![vinicius4511@gmail.com](https://img.icons8.com/color/48/000000/gmail.png) vinicius4511@gmail.com
